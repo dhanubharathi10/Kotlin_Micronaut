@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: micronautguide
+datasources:
+  default:
+    url: jdbc:mysql://localhost:3306/employee
+    port: 3306
+    username: root
+    password: Bharathi@10
+    dialect: MYSQL
